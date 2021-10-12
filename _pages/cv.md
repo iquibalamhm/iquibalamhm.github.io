@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Sandesh Bhat"
+title: "Iqui Balam Heredia Marin"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,46 +9,62 @@ redirect_from:
 
 {% include base_path %}
 
-Resume (short) [PDF](https://DrSGBhat.github.io/files/Bhat_Resume.pdf)
+Resume (short) [PDF](https://iquibalamhm.github.io/files/Balam_.pdf)
 
-Curriculum Vitae (long) [PDF](https://DrSGBhat.github.io/files/Bhat_CV.pdf)
+Curriculum Vitae (long) [PDF](https://iquibalamhm.github.io/files/Balam_CV.pdf)
 
 
 Education
 ======
-* Ph.D in Systems Engineering, Arizona State University, U.S.A., May 2021
-* M.S. in Mechanical and Aerospace Engineering, Arizona State University, U.S.A., December 2017
-* B.E. in Mechanical Engineering, Mumbai University, India, May 2016
+* B.S. in Mechatronics Engineering, Tecnologico de Monterrey, Mexico, 
+                              Graduation Date: June 2022, GPA 98/100.
 
-Work experience
+* La Universidad de la Habana, Cuba, 
+                              Study Abroad June 2018, GPA: 5/5.
+
 ======
-* Research Fellow (May 2021 - present)
-  * Department of Orthopedics, Mayo Clinic, Rochester, MN.
+* Research Intern Harvard Medical School
+  * Working with Fetal Magnetic Reasonance Imaging developing .
   * Supervisor: Dr. Kenton Kaufman, Kathie Bernhardt
 
-* Graduate Teaching Assistant (Fall 2018, Spring 2019, Fall 2019)
-  * Arizona State University, Mesa, AZ
-  * Duties included: Teaching EGR 219: Computational Modelling of Engineering Systems (Fall 2018, Spring 2019); TA EGR 217 and EGR 343: Mechanics and Strength of Materials (Fall 2019)
-  * Supervisor: Dr. Scott Danielson; Dr. Changho Nam; Dr. Sangram Redkar
+* Robotics Institute Summer Scholar (RISS) at Carnegie Mellon University (Pittsburgh, MA, USA)  Python   (May – August 2021) 
+  * Interactive Algebra Interface. Develop a platform where students can learn algebra while interacting with mathematical functions using a glove. 
+  * The processing is done using OpenCV for filtering and image processing and PyGame for rendering. 
+  * To be published in the RISS 2021 Journal. 
 
-* Graduate Research Assistant (Fall 2017, Spring 2018, Fall 2018)
-  * Arizona State University, Mesa, AZ
-  * Duties included: Designing Prostheses and Exosuits; Simulating Human Walking Gait using various Robotic Manipulators; Simulating the Dynamics of Human Gait
-  * Supervisor: Dr. Sangram Redkar; Dr. Thomas Sugar
-  
+* DeAcero, Research and Development Intern, (Monterrey, NL, Mexico),  Python / R,    February – July 2021
+ * Develop solutions to have a better performance in a couple of processes. 
+ * I developed data acquisition and analysis in real-time using a Raspberry Pi connected 
+to a PLC of a galvanized wire production line.
+  * I proposed a Six Sigma analysis in R and data processing using some python libraries such as Pandas. 
+
+* On Campus Job, Research Intern (Monterrey, NL, Mexico)   Python   August 2020 – July 2021 
+  * We developed an autonomous robot to help secure safe social distance between people on campus focused on the current COVID pande mic. 
+  * I developed the computer vision algorithm based on multiple Deep Neural Networks using TensorFlow as a framework; and YoloV4 a nd Res10 as architectures. 
+
+* National Instruments, Engineering Intern (Monterrey, NL, Mexico)  , C / MATLAB /Simulink , February – May 2020 
+  * Automotive embedded project to develop the GG-AWES technology based on wind energy generated with an autonomous drone connected to a motor on the  ground.  
+  * I  mainly  worked  on  Simulink-MATLAB  simulations  of  the  drone  flight,  developing  a  3-DOF  nonlinear  analysis,  testing  it  with  multiple  possible scenarios, and C code deployment in a MATEK F765 flight computer.   
+ 
+* Qualtia Alimentos, Digital Transformation Intern (Monterrey, NL, Mexico),  C++ ,  January – February 2020 
+  * Quality control of meat pieces before and after a process. To track the efficiency and well performance of the process I designed a volume measurement algorithm using a 3D camera. 
+  * We developed a useful prototype for future in-plant implementation. 
+ 
+* Mitacs Globalink Research Intern at McMaster University (Hamilton, ON, Canada), C++,    May – August 2019 
+  * Collaborative Robot Arm Software Development. Point cloud processing using Point Cloud Library (PCL) and OpenCV to segment a hand for gesture recognition for human-robot interaction. 
+  * Trained a Machine Learning model with features from the hand (volume, area, convexity, circularity) achieving more than 90% of precision in the predictions.   
+
 Skills
 ======
+* Python Programming
+* C++ Programming
+* Deep Learning architectures
+* 3D Vision Systems (Kinect V1, Kinect V2, Intel Realsense)
+* Rapid Prototyping Manufacturing (Laser cut, 3d print)
 * Computer Aided Design/Drawing (SolidWorks, Fusion 360, ProE)
 * Matlab Programming (Matlab and Simulink)
-* Python Programming
-* Limited C++ Programming Skills
-* Operation of various Manipulator Arms (Baxter Dual-Arm Robot, UR5, Dobot Magician and self-built arm)
-* Limited ROS Capability
-* Limited Embedded Systems Capability 
-* Bio-mechanical Analyses
-* OpenSim Simulation (Human Bio-mechanical Modelling)
-* Motion Capture and Data Analysis (Vicon and Optitrack systems)
-* Fabrication of Various Devices
+* ROS Capability
+* Embedded Systems Capability
 
 Publications
 ======
@@ -58,7 +74,15 @@ Publications
  
 Service and leadership
 ======
-* Director of Outreach, Polytechnic Campus (Graduate and Professional Student Association) (August 2020 - May 2021)
-* Engineering Assembly member (Graduate and Professional Student Association) (August 2019 - May 2020)
-* Student Body President (Mechanical Engineering Students Association) (August 2015 - May 2016)
-* Treasurer (Mechanical Engineering Students Association) (August 2014 - May 2015)
+* President of Sustaingineering Tec (Monterrey, NL, Mexico)              November 2018 – November 2019 
+  * Student  engineering  team  with  15  members  that  designs,  develops,  and  deploys  sustainable  technology  solutions  for  renewable  energy  applications  in 
+remote and developing communities. 
+  * We designed an intelligent charge controller MPPT for higher energy efficiency of a isolated Solar Panel System. 
+ 
+* Active member of RoBorregos at ITESM, Campus Monterrey.      November 2017 – Present 
+  * School  team  with  active  participation  in  Robotics  national  and  international  competitions.   Contributing  to  our  community  by  improving  technological 
+development. 
+  * I have participated in different robotics competitions inside and outside Mexico. 
+ 
+* Awarded with Gallagher Scholarship           May 2017 
+  * This scholarship gives the opportunity to 5 students all over Mexico, each year, to access a full tuition scholarship at ITESM, Campus Monterrey. 

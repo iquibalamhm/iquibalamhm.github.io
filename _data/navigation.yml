@@ -18,8 +18,8 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Student Advocacy"
-    url: /stuadv/
+  #- title: "Student Advocacy"
+  #  url: /stuadv/
     
   - title: "Contact"
     url: /contact/  
