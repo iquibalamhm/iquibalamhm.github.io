@@ -22,6 +22,7 @@ Education
 * La Universidad de la Habana, Cuba, 
                               Study Abroad June 2018, GPA: 5/5.
 
+Work Experience
 ======
 * Research Intern Harvard Medical School
   * Working with Fetal Magnetic Reasonance Imaging developing .
