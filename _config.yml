@@ -82,15 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sandesh Bhat"
-  avatar           : "sandesh.jpg"
-  bio              : "Research Fellow,
-                      Motion Analysis Laboratory,
-                      Mayo Clinic."
-  location         : "Rochester, MN, USA"
-  employer         : "Mayo Clinic"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Dx9aVjgAAAAJ"
-  email            : "mrsandeshbhat@gmail.com"
+  name             : "Iqui Balam Heredia Marin"
+  avatar           : "profile.jpg"
+  bio              : "Senior Mechatronics Student,
+                      HMS Research Asistant."
+  location         : "Boston, MA, USA"
+  employer         : "Harvard Medical School"
+  googlescholar    : "https://scholar.google.com/"
+  email            : "iquibalamhm@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -98,13 +97,13 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "mrsandeshbhat"
+  github           : "iquibalamhm"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "mrsandeshbhat"
-  orcid            : "https://orcid.org/0000-0002-8989-0235"
+  linkedin         : "iqui-balam"
+  orcid            : "https://orcid.org/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
