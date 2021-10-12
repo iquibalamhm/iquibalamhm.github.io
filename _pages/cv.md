@@ -26,7 +26,7 @@ Work Experience
 ======
 * Research Intern Harvard Medical School
   * Working with Fetal Magnetic Reasonance Imaging developing .
-  * Supervisor: Dr. Kenton Kaufman, Kathie Bernhardt
+  * Supervisor: Dr. Im Kiho
 
 * Robotics Institute Summer Scholar (RISS) at Carnegie Mellon University (Pittsburgh, MA, USA)  Python   (May – August 2021) 
   * Interactive Algebra Interface. Develop a platform where students can learn algebra while interacting with mathematical functions using a glove. 
@@ -34,8 +34,8 @@ Work Experience
   * To be published in the RISS 2021 Journal. 
 
 * DeAcero, Research and Development Intern, (Monterrey, NL, Mexico),  Python / R,    February – July 2021
- * Develop solutions to have a better performance in a couple of processes. 
- * I developed data acquisition and analysis in real-time using a Raspberry Pi connected 
+  * Develop solutions to have a better performance in a couple of processes. 
+  * I developed data acquisition and analysis in real-time using a Raspberry Pi connected 
 to a PLC of a galvanized wire production line.
   * I proposed a Six Sigma analysis in R and data processing using some python libraries such as Pandas. 
 
