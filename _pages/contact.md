@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Rochester, MN<br>
+Boston, MA<br>
 
-Email: mrsandeshbhat [at] gmail [dot] com
+Email: iquibalamhm@gmail.com
 
-LinkedIn: [<font color="#52ADC8">DrSGBhat</font>](https://in.linkedin.com/in/mrsandeshbhat)
+LinkedIn: [<font color="#52ADC8">Iqui-Balam</font>](https://in.linkedin.com/in/iqui-balam)
 
 <!-- <embed src="https://www.linkedin.com/in/mrsandeshbhat" width="650" height="1800" type='application/pdf'> -->
