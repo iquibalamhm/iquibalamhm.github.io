@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Resume (short) [PDF](https://iquibalamhm.github.io/files/Balam_.pdf)
+Resume (short) [PDF](https://iquibalamhm.github.io/files/Iqui_Balam_CV.pdf)
 
-Curriculum Vitae (long) [PDF](https://iquibalamhm.github.io/files/Balam_CV.pdf)
-
+<!--- Curriculum Vitae (long) [PDF](https://iquibalamhm.github.io/files/Balam_CV.pdf) --->
 
 Education
 ======
