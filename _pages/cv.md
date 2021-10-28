@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Resume (short) [PDF](https://iquibalamhm.github.io/files/Iqui_Balam_CV.pdf)
+Resume [PDF](https://iquibalamhm.github.io/files/Iqui_Balam_CV.pdf)
 
 <!--- Curriculum Vitae (long) [PDF](https://iquibalamhm.github.io/files/Balam_CV.pdf) --->
 
@@ -30,7 +30,7 @@ Work Experience
 * Robotics Institute Summer Scholar (RISS) at Carnegie Mellon University (Pittsburgh, MA, USA)  Python   (May – August 2021) 
   * Interactive Algebra Interface. Develop a platform where students can learn algebra while interacting with mathematical functions using a glove. 
   * The processing is done using OpenCV for filtering and image processing and PyGame for rendering. 
-  * To be published in the RISS 2021 Journal. 
+  * Published in RISS [PDF](https://iquibalamhm.github.io/files/Iqui_Balam_CV.pdf). 
 
 * DeAcero, Research and Development Intern, (Monterrey, NL, Mexico),  Python / R,    February – July 2021
   * Develop solutions to have a better performance in a couple of processes. 
