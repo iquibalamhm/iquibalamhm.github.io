@@ -24,7 +24,7 @@ Education
 Work Experience
 ======
 * Research Intern Harvard Medical School
-  * Working with Fetal Magnetic Reasonance Imaging developing .
+  * Working with Fetal Magnetic Reasonance Imaging developing a novel model for fetal brain region segmentation using Deep Learning.
   * Supervisor: Dr. Im Kiho
 
 * Robotics Institute Summer Scholar (RISS) at Carnegie Mellon University (Pittsburgh, MA, USA)  Python   (May – August 2021) 
