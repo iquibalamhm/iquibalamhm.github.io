@@ -8,7 +8,7 @@ author_profile: true
 
 <br>
 <b>[AlgeGloves: An Interactive Algebra Interface That Allows Students to
-Mold Algebraic Functions](http://iquibalamhm.github.io/publications/)</b> <br> 
+Mold Algebraic Functions](http://iquibalamhm.github.io/publications/Algegloves)</b> <br> 
 <i><b>Iqui Balam Heredia Marin</b></i>.<br>
 <i>Robotics Institute Summer Scholar, Carnegie Mellon University</i>.
 <br>
