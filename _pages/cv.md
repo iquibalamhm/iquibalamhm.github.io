@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Resume [PDF](https://iquibalamhm.github.io/files/Iqui_Balam_CV.pdf)
+[//]:<Resume [PDF](https://iquibalamhm.github.io/files/Iqui_Balam_CV.pdf)>
+
+Resume [PDF](https://iquibalamhm.github.io/files/Iqui_Balam_CV_extended.pdf)
 
 <!--- Curriculum Vitae (long) [PDF](https://iquibalamhm.github.io/files/Balam_CV.pdf) --->
 
