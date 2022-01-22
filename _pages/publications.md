@@ -6,6 +6,7 @@ author_profile: true
 [//]: <  <br>
 [//]: <> (This is also a comment.)For proper citations, refer [Google Scholar](https://scholar.google.com/)<br>>
 
+[//]:<
 <br>
 <b>[AlgeGloves: An Interactive Algebra Interface That Allows Students to
 Mold Algebraic Functions](http://iquibalamhm.github.io/publications/Algegloves)</b> <br> 
@@ -18,4 +19,10 @@ Mold Algebraic Functions](http://iquibalamhm.github.io/publications/Algegloves)<
 <i><b>Iqui Balam Heredia Marin</b></i>.<br>
 <i>Extracurricular Project, Tecnologico de Monterrey</i>.
 <br>
+>
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 
