@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/Algegloves
 date: '2021-10-18'
 venue: 'Robotics Institute Summer Scholar’ Working Papers Journals'
-citation: '<b><i>Iqui Balam Heredia Marin</i></b>, Melisa Orta Martinez'
+citation: '<b><i>Heredia-Marin, I. B.</i></b>, Orta-Martinez M.'
 ---
 
 [[Journal]](https://riss.ri.cmu.edu/wp-content/uploads/2021/10/2021-CMU-RoboticsInstitute_SummerScholars-WorkingPapersJournal-Sized.pdf#page=118)
