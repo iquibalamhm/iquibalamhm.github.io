@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/PiBOT
 date: '2021-11-21'
 venue: 'Advances in Automation and Robotics Research'
-citation: 'Ricardo Osorio-Oliveros, Aurora Tijerina-Berzosa, Juan Angel Gonzalez-Aguirre<b><i>Iqui Balam Heredia-Marin</i></b>, Mauricio Adolfo Ramírez-Moreno, Jorge de Jesús Lozoya-Santos'
+citation: 'Ricardo Osorio-Oliveros, Aurora Tijerina-Berzosa, Juan Angel Gonzalez-Aguirre, <b><i>Iqui Balam Heredia-Marin</i></b>, Mauricio Adolfo Ramírez-Moreno, Jorge de Jesús Lozoya-Santos'
 ---
 
 [[Journal]](https://link.springer.com/chapter/10.1007%2F978-3-030-90033-5_27)
