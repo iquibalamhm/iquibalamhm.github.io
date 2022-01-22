@@ -4,8 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 [//]: <  <br>
-[//]: <> (This is also a comment.)For proper citations, refer [Google Scholar](https://scholar.google.com/)<br>
-<br>          >
+[//]: <> (This is also a comment.)For proper citations, refer [Google Scholar](https://scholar.google.com/)<br>>
 
 <br>
 <b>[AlgeGloves: An Interactive Algebra Interface That Allows Students to
